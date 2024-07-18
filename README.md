@@ -26,5 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay21nandi&" alt="akshay21nandi" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshay21Nandi&limit=5&theme=flat&combine_all_yearly_contributions=true)
